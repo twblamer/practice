@@ -8,7 +8,7 @@ Clone this repo and run `mvn test`.
 
 Using the code:
 
-- Pick a file to work on in the `src/main/java/practice/exercises` directory (e.g. [LinkedListExercises.java](src/main/java/practice/exercises/LinkedListExercises.java))
+- Pick a file to work on in the `src/main/java/io/github/twblamer/practice/exercises` directory (e.g. [LinkedListExercises.java](src/main/java/io/github/twblamer/practice/exercises/LinkedListExercises.java))
 - Pick a method to work on, comment out the line that calls the existing solution, and write your own solution.
 - Run `mvn test` to check your work. (Or use the test runner in your IDE)
 
